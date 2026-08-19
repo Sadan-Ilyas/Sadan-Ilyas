@@ -47,18 +47,27 @@ A full-featured e-commerce platform for a luxury watch brand — product catalog
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadan-Ilyas/Sadan-Ilyas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Sadan-Ilyas/Sadan-Ilyas/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadan-Ilyas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadan-Ilyas&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadan-Ilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadan-Ilyas&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadan-Ilyas&theme=tokyonight" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Sadan-Ilyas&theme=radical&border_radius=10" alt="streak stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadan-Ilyas&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
 
 ### 🤝 Connect with Me
 
