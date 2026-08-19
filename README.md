@@ -54,19 +54,20 @@ A full-featured e-commerce platform for a luxury watch brand — product catalog
   <img src="https://raw.githubusercontent.com/Sadan-Ilyas/Sadan-Ilyas/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
 </p>
 
-### 📊 GitHub Stats
+### 📈 Activity Graph
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadan-Ilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadan-Ilyas&layout=compact&theme=radical&border_radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadan-Ilyas&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Agents+That+Solve+Real+Problems;Automating+the+Boring+Stuff;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sadan-Ilyas&theme=radical&border_radius=10" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadan-Ilyas&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=Sadan-Ilyas&label=Profile+Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
 ### 🤝 Connect with Me
