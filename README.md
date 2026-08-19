@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadan Ilyas</h1>
+<h1 align="center">Hi I'm Sadan Ilyas</h1>
 <h3 align="center">AI & Automation Engineer | Building Intelligent Agents & Workflows</h3>
 
 <p align="center">
@@ -50,12 +50,12 @@ A full-featured e-commerce platform for a luxury watch brand — product catalog
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadan-Ilyas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadan-Ilyas&theme=tokyonight" alt="streak stats"/>
 </p>
 
 ---
