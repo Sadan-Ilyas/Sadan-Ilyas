@@ -39,11 +39,11 @@ An AI automation agent that streamlines OPD (Outpatient) insurance claim process
 
 **⚙️ Machine Maintenance Prediction (ML)**
 A machine learning model that predicts equipment failure before it happens, using sensor/historical data to enable predictive maintenance and reduce downtime.
-> 🔗 [View Repo](https://github.com/your-username/machine-maintenance-prediction)
+> 🔗 [View Repo](https://github.com/Sadan-Ilyas/AI4I-Predictive-Maintenance)
 
 **⌚ Luxury Watch Store**
 A full-featured e-commerce platform for a luxury watch brand — product catalog, cart, and checkout flow built for a premium shopping experience.
-> 🔗 [View Repo](https://github.com/your-username/luxury-watch-store)
+> 🔗 [View Repo](https://github.com/Sadan-Ilyas/Luxury-Watch-E-Commerce-Platform)
 
 ---
 
@@ -51,7 +51,7 @@ A full-featured e-commerce platform for a luxury watch brand — product catalog
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadan-Ilyas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadan-Ilyas&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
