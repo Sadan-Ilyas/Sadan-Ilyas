@@ -35,7 +35,7 @@
 
 **🏥 OPD Claim Processing Agent**
 An AI automation agent that streamlines OPD (Outpatient) insurance claim processing — reducing manual review time and automating validation, extraction, and decision workflows.
-> 🔗 [View Repo](https://github.com/your-username/opd-claim-agent)
+> 🔗 [View Repo](https://github.com/Sadan-Ilyas/AI-OPD-Claim-Processing)
 
 **⚙️ Machine Maintenance Prediction (ML)**
 A machine learning model that predicts equipment failure before it happens, using sensor/historical data to enable predictive maintenance and reduce downtime.
